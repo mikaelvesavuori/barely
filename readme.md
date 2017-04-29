@@ -12,6 +12,9 @@ The two scripts are identical (except for the very top part) and easily edited i
 ## Installing the bash command
 Open up your command line interface (CLI) and run `sudo nano ~/.bash_profile` to access your bash profile. This is where you stick your "aliases", that is, the CLI commands that will trigger something to happen. Paste the code in **barely_bash-alias.txt** in there, save with `CTRL+X` and then `Y`, restart your CLI, and you should be ready to go.
 
+## Using the bash command
+Simply run `barely` and the files and folders will be created in your current folder. The default name of the main folder is **new-web-project**.
+
 ## Using the shell script
 Running the shell script should run the commands in the folder where the script resides.
 
