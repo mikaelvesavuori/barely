@@ -10,13 +10,13 @@ Or – you just want to have some kind of structure for when you need to do som
 The two scripts are identical (except for the very top part) and easily edited in any kind of text editor. Set it up just as you want!
 
 ## Installing the bash command
-Open up your command line interface (CLI) and run `sudo nano ~/.bash_profile` to access your bash profile. This is where you stick your "aliases", that is, the CLI commands that will trigger something to happen. Paste the code in **barely_bash-alias.txt** in there, save with `CTRL+O` and then `Y`, restart your CLI, and you should be ready to go.
+Open up your command line interface (CLI) and run `sudo nano ~/.bash_profile` to access your bash profile. This is where you stick your "aliases", that is, the CLI commands that will trigger something to happen. Paste the code in **barely_bash-alias.txt** in there, save with `CTRL+O`, restart your CLI, and you should be ready to go.
 
 ## Using the bash command
 Simply run `barely` and your files and folders will be created in the currently active folder. The default name of the main folder is **new-web-project**.
 
 ## Using the shell script
-Running the shell script should run the commands in the folder where the script resides.
+Running the shell script should execute the commands in the folder where the script resides.
 
 ## Troubleshooting
-The only thing that might impede you using the scripts would be that the scripts don't have access to your file system. You will need to Google an answer but it will probably just have to do with some simple command line `chmod` stuff.
+The only thing that might impede you using the scripts would be if the scripts don't have access to your file system. You will need to Google an answer but it will probably just have to do with some simple command line `chmod` stuff.
