@@ -1,7 +1,9 @@
+[Barely](https://github.com/mikaelvesavuori/barely) is part of a family of web development tools which also includes [Minimally](https://github.com/mikaelvesavuori/minimally), [Purely](https://github.com/mikaelvesavuori/purely) and [Only](https://github.com/beingstudio/only).
+
+---
+
 # Barely
 Create a basic web development file and folder structure with a shell script or bash command.
-
-[Barely](https://github.com/mikaelvesavuori/barely) is part of a family of web development tools which also includes [Minimally](https://github.com/mikaelvesavuori/minimally), [Purely](https://github.com/mikaelvesavuori/purely) and [Only](https://github.com/beingstudio/only).
 
 ## What do I do with Barely?
 Maybe you are the frontend equivalent of Chuck Norris and you just don't need no stinkin' frameworks and fancy-pants libraries. You want plain, empty files and a set of empty folders to put nothing in. Yep, a big hunk of nothing in each folder.
