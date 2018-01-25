@@ -1,4 +1,4 @@
-[Barely](https://github.com/mikaelvesavuori/barely) is part of a family of web development tools which also includes [Minimally](https://github.com/mikaelvesavuori/minimally), [Purely](https://github.com/mikaelvesavuori/purely) and [Only](https://github.com/beingstudio/only).
+[Barely](https://github.com/mikaelvesavuori/barely) is part of a family of web development tools which also includes [Minimally](https://github.com/mikaelvesavuori/minimally), [Purely](https://github.com/mikaelvesavuori/purely) and [Only](https://github.com/beingstudio/only). It is succeeded by [Hiperf](https://github.com/mikaelvesavuori/hiperf).
 
 ---
 
